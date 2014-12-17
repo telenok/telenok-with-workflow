@@ -1,6 +1,5 @@
 ## Telenok CMS
 
-[![Build Status](https://travis-ci.org/telenok/telenok.svg)](https://travis-ci.org/telenok/telenok)
 [![Total Downloads](https://poser.pugx.org/telenok/telenok/downloads.svg)](https://packagist.org/packages/telenok/telenok)
 [![Latest Stable Version](https://poser.pugx.org/telenok/telenok/v/stable.svg)](https://packagist.org/packages/telenok/telenok)
 [![Latest Unstable Version](https://poser.pugx.org/telenok/telenok/v/unstable.svg)](https://packagist.org/packages/telenok/telenok)
