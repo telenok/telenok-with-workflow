@@ -1,9 +1,10 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
-	"license": "MIT",
-	"type": "project",
+        "name": "telenok/telenok",
+        "description": "The Telenok CMS",
+        "keywords": ["framework", "laravel", "telenok"],
+        "homepage": "http://telenok.com",
+        "license": "commercial",
+        "type": "project",
 	"require": {
 		"laravel/framework": "~5.0"
 	},
