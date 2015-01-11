@@ -24,4 +24,7 @@ Using composer.phar execute commands:
     $ php artisan telenok:install
     $ php artisan telenok:seed
 
-Then you can login via http://<your_domain>/telenok
+Then you can login via 
+```html
+http://<your_domain>/telenok
+```
