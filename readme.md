@@ -9,11 +9,11 @@ Telenok CMS allows to create and to manage any types of objects, add fields to t
 
 ## Official Documentation
 
-Documentation for the entire Telenok CMS can be found on the [Telenok website](http://telenok.com/docs).
+Documentation for the entire Telenok CMS coming soon.
 
 ### License
 
-Telenok CMS is open-sourced software licensed under the Free for personal, non-commercial, non-company using and commercial licensed in other cases. Please, visit http://telenok.com/license
+Telenok CMS is open-sourced software licensed under the Free for personal, non-commercial, non-company using and commercial licensed in other cases. 
 
 ## Installation
 
