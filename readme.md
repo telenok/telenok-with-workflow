@@ -33,3 +33,4 @@ http://<your_domain>/telenok
 
 ![Backend](http://s016.radikal.ru/i337/1501/44/4924b62cc9be.gif)
 ![Backend](http://s017.radikal.ru/i403/1501/69/55f0c39ab954.gif)
+![Business process](http://s017.radikal.ru/i422/1501/28/4cd702bec794.gif)
