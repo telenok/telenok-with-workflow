@@ -25,6 +25,6 @@ Using composer.phar execute commands:
     $ php artisan telenok:seed
 
 Then you can login via 
-```html
+```txt
 http://<your_domain>/telenok
 ```
