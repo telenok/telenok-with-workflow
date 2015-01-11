@@ -4,7 +4,7 @@
 [![Latest Stable Version](https://poser.pugx.org/telenok/telenok/v/stable.svg)](https://packagist.org/packages/telenok/telenok)
 [![Latest Unstable Version](https://poser.pugx.org/telenok/telenok/v/unstable.svg)](https://packagist.org/packages/telenok/telenok)
 [![License](https://poser.pugx.org/telenok/telenok/license.svg)](https://packagist.org/packages/telenok/telenok)
- 
+
 Telenok CMS allows to create and to manage any types of objects, add fields to them and permissions, set rules and business processes using ORYX engine.
 
 ## Official Documentation
@@ -13,5 +13,12 @@ Documentation for the entire Telenok CMS can be found on the [Telenok website](h
 
 ### License
 
-Telenok CMS is open-sourced software licensed under the Free for personal, non-commercial, non-company using and commercial licensed in other case. Please, visit http://telenok.com/license
+Telenok CMS is open-sourced software licensed under the Free for personal, non-commercial, non-company using and commercial licensed in other cases. Please, visit http://telenok.com/license
 
+## Installation
+
+Using composer.phar execute commands:
+
+    $ php composer.phar create-project telenok/telenok <target-directory> --prefer-dist
+    $ php artisan telenok:install
+    $ php artisan telenok:seed
