@@ -141,6 +141,8 @@ return [
          */
         'Telenok\Core\CoreServiceProvider',
         
+        'Illuminate\Html\HtmlServiceProvider',
+
         ###providers###
 
 		/*
